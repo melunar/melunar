@@ -10,7 +10,6 @@
 - 💻[博客](http://lalapkp.cn)
 - 🐱[Github](https://github.com/melunar)
 - 🔨[掘金](https://juejin.cn/user/2612095355979405)
-- 🐶[知乎](https://www.zhihu.com/people/hao-yong-21)
 - 👱[关于我](http://www.lalapkp.cn/about)
 - 🐒[CSDN](https://blog.csdn.net/Haoyong110?spm=1000.2115.3001.5343&type=1)
 
