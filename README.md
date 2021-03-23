@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=melunar&count_private=true&show_icons=true)
+
+### top project now
+[![](https://github-readme-stats.vercel.app/api/pin/?username=melunar&repo=my-react-admin-code)](https://github.com/melunar/my-react-admin-code)
+
+### my status
+
 - 🔭 I’m currently working on javascript/typeScript/nodeJs/mongoDb/微信小程序/React/Vue
 - 🌱 I’m currently learning nodeJs/Express
 - 📫 How to reach me: 2515768597@qq.com [or wechat: haoyong4237]
 - ⚡ Fun fact: 🏃 🏀  💻
 
-----
+### my works
 
 - 💻[博客](http://lalapkp.cn)
 - 🐱[Github](https://github.com/melunar)
