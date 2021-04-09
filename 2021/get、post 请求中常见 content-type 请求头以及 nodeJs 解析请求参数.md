@@ -313,10 +313,11 @@ GET 产生一个 TCP 数据包；POST 产生两个 TCP 数据包。
 看到这里，是不是觉得日常业务接口类型也就这些，无非就是在做一些数据库的CRUD操作，so，前后端一起搞起来吧~~
 
 ---
-[demo源码: https://github.com/melunar](https://github.com/melunar/proj02/tree/master/nodejs/server/content-type)
 
-参考：  
-[post请求头中常见content-type（非常重要）](https://www.cnblogs.com/mmzuo-798/p/11634055.html)
+参考: [post请求头中常见content-type](https://www.cnblogs.com/mmzuo-798/p/11634055.html)
+
+demo源码: [https://github.com/melunar](https://github.com/melunar/proj02/tree/master/nodejs/server/content-type)
+
 ------
 
 **更多关于我**
