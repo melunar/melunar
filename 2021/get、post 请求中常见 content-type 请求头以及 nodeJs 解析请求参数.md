@@ -257,7 +257,7 @@ app.post('/application-json', jsonParser, function (req, res) {
 
 `application-json` 类型可以方便的提交复杂的结构化数据，很适合 `RESTful` 的接口。各大抓包工具如 Chrome 自带的开发者工具、Fiddler、Charles，都会以树形结构展示 JSON 数据，非常友好。
 
-# 1.4 GET 接口
+## GET 接口
 
 最后附上 get 接口，这样基本上覆盖日常开发的90%以上的接口类型了
 
