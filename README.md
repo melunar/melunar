@@ -29,4 +29,4 @@
 
 - [react-admin](http://my-admin.lalapkp.cn/#/index)
 - [app-setting](http://wx-app-setting.lalapkp.cn)
-- [fored-大西瓜H5](http://crash-syn-game.lalapkp.cn)
+- [forked-大西瓜H5](http://crash-syn-game.lalapkp.cn)
